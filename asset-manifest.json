@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/repotut/static/css/main.1b513dc0.chunk.css",
+    "main.js": "/repotut/static/js/main.66b6cce7.chunk.js",
+    "main.js.map": "/repotut/static/js/main.66b6cce7.chunk.js.map",
+    "runtime-main.js": "/repotut/static/js/runtime-main.54868859.js",
+    "runtime-main.js.map": "/repotut/static/js/runtime-main.54868859.js.map",
+    "static/css/2.c1256375.chunk.css": "/repotut/static/css/2.c1256375.chunk.css",
+    "static/js/2.9a1b9d34.chunk.js": "/repotut/static/js/2.9a1b9d34.chunk.js",
+    "static/js/2.9a1b9d34.chunk.js.map": "/repotut/static/js/2.9a1b9d34.chunk.js.map",
+    "static/js/3.33f81999.chunk.js": "/repotut/static/js/3.33f81999.chunk.js",
+    "static/js/3.33f81999.chunk.js.map": "/repotut/static/js/3.33f81999.chunk.js.map",
+    "index.html": "/repotut/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/repotut/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.1b513dc0.chunk.css.map": "/repotut/static/css/main.1b513dc0.chunk.css.map",
+    "static/js/2.9a1b9d34.chunk.js.LICENSE.txt": "/repotut/static/js/2.9a1b9d34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54868859.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.9a1b9d34.chunk.js",
+    "static/css/main.1b513dc0.chunk.css",
+    "static/js/main.66b6cce7.chunk.js"
+  ]
+}
